@@ -1,4 +1,9 @@
-# Myapp
+# GroceryApp
+## API URL
+#### http://apolis-grocery.herokuapp.com/api-docs/
+
+## Image URL
+### http://rjtmobile.com/grocery/images/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
